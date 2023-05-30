@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">I am an Developer from India</h3>
+<h1 align="center">Hey 👋, I'm Aditya Singh</h1>
+<h3 align="center">I am an Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh-02&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh-02" /> </p>
 
@@ -7,7 +7,7 @@
 
 - CS Undergrad.
 
-- 🌱 I’m currently learning **Rust, TypeScript, Web3**
+- 🌱 I’m currently learning **TypeScript, NextJs**
 
 - I like to work on open source softwares.
 
@@ -33,14 +33,14 @@
   
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh-02&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh-02&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-02&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-02&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </td>
 </tr>
 </table>
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh-02&theme=merko&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh-02&theme=merko&hide_border=true" />
 </p>
