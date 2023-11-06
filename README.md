@@ -29,6 +29,8 @@
 
 [![An image of @aditya_op's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya_op)](https://holopin.io/@aditya_op)
 
+[![AdityaSingh-02's GitHub | Languages Over Time](https://stats.quine.sh/AdityaSingh-02/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdityaSingh-02)
+
 # 📊 Stats:
   
 <table align="center">
@@ -37,6 +39,16 @@
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh-02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</td>
+</tr>
+</table>
+<table align="center">
+<tr>
+<td>
+<img src="https://stats.quine.sh/AdityaSingh-02/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdityaSingh-02">
+</td>
+<td>
+<img src="https://stats.quine.sh/AdityaSingh-02/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdityaSingh-02">
 </td>
 </tr>
 </table>
