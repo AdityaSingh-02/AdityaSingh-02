@@ -17,10 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/go_d_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="go_d_aditya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-singh-76065422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singh-76065422b" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_op" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asaditya2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asaditya2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya__op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya__op" height="30" width="40" /></a>
-<a href="https://discord.gg/PeNnOP#2318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PeNnOP#2318" height="30" width="40" /></a>
 </p>
 
 
